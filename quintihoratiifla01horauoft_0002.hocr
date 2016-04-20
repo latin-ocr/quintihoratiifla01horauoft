@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./quintihoratiifla01horauoft_0002.png"; bbox 0 0 1834 3117; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 939 1136 1145 1409">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 939 1136 1145 1409">
+     <span class='ocr_line' id='line_1_1' title="bbox 939 1136 1145 1409; baseline 0 1708"><span class='ocrx_word' id='word_1_1' title='bbox 939 1136 1145 1409; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 702 1471 1383 2017">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 702 1471 1383 2017">
+     <span class='ocr_line' id='line_1_2' title="bbox 862 1471 1214 1512; baseline 0.014 -5"><span class='ocrx_word' id='word_1_2' title='bbox 862 1471 1080 1510; x_wconf 85' lang='lat' dir='ltr'><em>Presented</em></span> <span class='ocrx_word' id='word_1_3' title='bbox 1095 1479 1133 1511; x_wconf 87' lang='lat' dir='ltr'>to</span> <span class='ocrx_word' id='word_1_4' title='bbox 1151 1473 1214 1512; x_wconf 85' lang='lat' dir='ltr'>the</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 859 1568 1233 1619; baseline 0.013 -13"><span class='ocrx_word' id='word_1_5' title='bbox 859 1568 1095 1608; x_wconf 87' lang='lat' dir='ltr'>LIBRARY</span> <span class='ocrx_word' id='word_1_6' title='bbox 1112 1571 1160 1619; x_wconf 88' lang='lat' dir='ltr'>of</span> <span class='ocrx_word' id='word_1_7' title='bbox 1169 1572 1233 1610; x_wconf 85' lang='lat' dir='ltr'>the</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 702 1667 1383 1709; baseline 0.006 -4"><span class='ocrx_word' id='word_1_8' title='bbox 702 1667 1027 1707; x_wconf 86' lang='lat' dir='ltr'>UNIVERSITY</span> <span class='ocrx_word' id='word_1_9' title='bbox 1041 1669 1112 1708; x_wconf 86' lang='lat' dir='ltr'>OF</span> <span class='ocrx_word' id='word_1_10' title='bbox 1123 1670 1383 1709; x_wconf 88' lang='lat' dir='ltr'><strong>TORONTO</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 1020 1768 1068 1816; baseline 0 0"><span class='ocrx_word' id='word_1_11' title='bbox 1020 1768 1068 1816; x_wconf 74' lang='lat' dir='ltr'>by</span> 
+     </span>
+     <span class='ocr_line' id='line_1_6' title="bbox 716 1879 1355 1919; baseline 0.009 -5"><span class='ocrx_word' id='word_1_12' title='bbox 716 1879 891 1916; x_wconf 84' lang='lat' dir='ltr'>KAREL</span> <span class='ocrx_word' id='word_1_13' title='bbox 908 1880 1021 1916; x_wconf 87' lang='lat' dir='ltr'>AND</span> <span class='ocrx_word' id='word_1_14' title='bbox 1038 1881 1355 1919; x_wconf 84' lang='lat' dir='ltr'>MIROSLAVA</span> 
+     </span>
+     <span class='ocr_line' id='line_1_7' title="bbox 881 1977 1209 2017; baseline 0.006 -2"><span class='ocrx_word' id='word_1_15' title='bbox 881 1977 1209 2017; x_wconf 84' lang='lat' dir='ltr'><strong>CVACHOVEC</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
